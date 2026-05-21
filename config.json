@@ -1,0 +1,19 @@
+{
+    "TIMEOUT": 10,
+    "UPLOAD_TIMEOUT": 15,
+    "FILES_DIR": "lib",
+    "REQUIRED_FILES": [
+        "inmymine-shell.jpg",
+        "mem.zip"
+    ],
+    "RESULT_DIR": "Result",
+    "SHELLS_FILE": "Shells.txt",
+    "PASSWORDS_FILE": "password_change.txt",
+    "ADMINS_FILE": "wp-admin.txt",
+    "REGISTER_FILE": "wp-register.txt",
+    "UPDATE_URL": "https://raw.githubusercontent.com/InMyMine7/InMyMine7/main/up.txt",
+    "SUPPORT_URL": [
+        "https://buymeacoffee.com/inmymine72"
+    ],
+    "EMAIL": "default@example.com"
+}
